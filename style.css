@@ -1,0 +1,100 @@
+
+
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    background-image: url(https://cdn.britannica.com/52/7252-050-FE079526/Kazakhstan-map-features-locator.jpg);
+    
+    
+}
+
+a:link {
+    color: white;
+    background-color: transparent;
+    text-decoration: none;
+  }
+
+ul{
+    list-style-type: none;
+    color: white;
+    text-align: center;
+}
+
+.nav-div{
+    display: inline-block;
+    font-weight: bold;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    margin-right: 20px;
+}
+
+#navbar{
+    background-color: #333;
+    position: fixed;
+    top: 0px;
+    width: 100%
+}
+
+#brkt{
+    width: 30px;
+    border: none;
+    padding-top: 0px;
+    padding-bottom: 0px;
+    margin-left: 0px;
+    margin-right: 20px;
+    margin-top: 0px;
+    position: relative;
+}
+
+#uye-container{
+    position: fixed;
+    border-width: 10px;
+    border: 2px solid white;
+    left: 50%;
+    top: 30%;
+    padding-left:30px;
+    padding-right:30px;
+    padding-top:100px;
+    padding-bottom:100px;
+    background-color: #333;
+    color: white;
+    border-radius: 10px;
+    display: none;
+}
+
+
+#lgn{
+
+    border: none;
+    width: 30px;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+#buton1{
+    position:fixed;
+    right: 0px;
+    bottom: 200px;
+}
+
+#giris{
+    width: 80%;
+    color: white;
+    margin-left: 30px;
+    margin-top: 50px;
+    background-color: #333;
+    border-radius: 5px;
+    padding-left: 5px;
+    padding-top: 5px;
+    padding-right: 5px;
+    padding-bottom: 5px;
+    display: inline-block;
+}
+
+#astana {
+    border: 5px solid #333;
+    width: 500px;
+    margin-left: 50px;
+    margin-top: 150px;
+  }
+
+
